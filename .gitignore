@@ -1,0 +1,4 @@
+migration
+server
+*.pyc
+migration
